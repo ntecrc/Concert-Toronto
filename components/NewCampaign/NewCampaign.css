@@ -1,0 +1,21 @@
+.new-contract-container {
+    display: flex;
+    justify-content: center;
+}
+
+.txt-field {
+    display: flex;
+    padding: 5px;
+}
+
+.secondary-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.new-container-btn {
+    display: flex;
+    justify-content: center;
+    border: 2px solid gree;
+    padding: 5px;
+}
