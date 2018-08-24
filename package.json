@@ -1,0 +1,22 @@
+{
+  "name": "concert-toronto",
+  "version": "1.0.0",
+  "description": "Test Concert Toronto",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ntecrc/Concert-Toronto.git"
+  },
+  "author": "Roberto Gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ntecrc/Concert-Toronto/issues"
+  },
+  "homepage": "https://github.com/ntecrc/Concert-Toronto#readme"
+}
